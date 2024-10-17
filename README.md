@@ -1,4 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+##NAME:R SAKETRAM
+##REGISTER NUMBER:212223230181
 
 ## Aim: 
 To perform a study on Socket Programming
